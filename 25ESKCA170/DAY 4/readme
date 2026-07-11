@@ -1,0 +1,17 @@
+# Day 2 - JavaScript Mini Projects
+
+Simple mini projects built while learning JavaScript fundamentals.
+
+## Projects
+
+- Button Click Counter
+- Apple & Banana Click Game
+
+## Topics Covered
+
+- DOM Manipulation
+- Event Listeners
+- Variables & Functions
+- Timers (`setInterval`)
+- Randomization
+- Local Storage
